@@ -62,7 +62,7 @@ registrationForm.addEventListener('submit' ,(event) =>{
         emailInput.value = retrievedUserObject.emailAddress;
   }
 });
-localStorage.clear(); 
+// localStorage.clear(); 
 // This would remove 'username' and any other stored items.
 
 
