@@ -1,6 +1,3 @@
-
-
-
 const usernameInput = document.getElementById("username");
 const emailInput = document.getElementById("email");
 const pwInput = document.getElementById("password");
